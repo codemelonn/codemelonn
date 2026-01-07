@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Github_Banner.png"
+  <img src="Banner.png"
        alt="Cozy pixel desk banner"
        style="width: 100%; max-width: 1200px; image-rendering: pixelated;" />
 </p>
