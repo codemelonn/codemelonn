@@ -77,7 +77,7 @@ systems, and security. i enjoy building clean software and learning how things w
 <h3 align="center">🍰 featured projects</h3>
 
 <p align="center">
-bias analysis web application • distributed database test application • pearl • soundboxd
+bias analysis web application • distributed database test application • pearl
 </p>
 
 <br/>
